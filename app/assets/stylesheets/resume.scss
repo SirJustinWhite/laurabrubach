@@ -1,0 +1,60 @@
+// Place all the styles related to the resume controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+
+
+h1,h2,h3,p,dt,dl,a { 
+	font-family:  Palatino Linotype, Book Antiqua, Palatino, serif;
+	-webkit-font-smoothing: antialiased;
+}
+
+
+hr.resume {
+	margin-top: 0px;
+}
+
+h2.resume { 
+	margin-bottom: 0px;
+	text-align: left;
+}
+
+dl.pull-right {
+	text-align: right;
+}
+
+//Resume CSS
+#resumeAll {
+	color: #eee;
+}
+
+#rHeader {
+	color: #222;
+	background-color: #eee;
+}
+
+#headerPic {
+	height: 25%;
+	width: 25%;
+}
+
+#rEducation {
+	background-color: #777;
+}
+
+#rSkills {
+	background-color: #555; 
+}
+
+#rExperience {
+	background-color: #333; 
+}
+
+
+#rActivities {
+	background-color: #222; 
+}
+
+#rInterests { 
+	background-color: #000;
+}
