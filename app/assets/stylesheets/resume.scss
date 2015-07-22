@@ -3,12 +3,11 @@
 // You can use Sass (SCSS) here: http://sass-lang.com/
 
 
-
+// font changes
 h1,h2,h3,h4,p,dt,dl,a { 
 	font-family:  Georgia, serif;
 	-webkit-font-smoothing: antialiased;
 }
-
 
 hr.resume {
 	margin-top: 0px;
@@ -23,7 +22,7 @@ dl.pull-right {
 	text-align: right;
 }
 
-//Resume CSS
+// Resume sections CSS
 #resumeAll {
 	color: #eee;
 }
