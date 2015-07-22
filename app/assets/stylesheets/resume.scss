@@ -4,7 +4,7 @@
 
 
 
-h1,h2,h3,p,dt,dl,a { 
+h1,h2,h3,h4,p,dt,dl,a { 
 	font-family:  Georgia, serif;
 	-webkit-font-smoothing: antialiased;
 }
@@ -37,6 +37,8 @@ dl.pull-right {
 	#headerPic {
 		height: 25%;
 		width: 25%;
+		min-height: 150px;
+		min-width: 150px;
 	}
 
 #rEducation {
