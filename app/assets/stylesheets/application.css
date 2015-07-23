@@ -35,14 +35,14 @@
   }
 }
 
-@media (max-width: 600px) {
+@media screen and (max-width: 600px) {
   body#siteBackground {      
-     background: url(http://i.imgur.com/S769qpP.jpg) no-repeat center fixed;
+     background: url(http://i.imgur.com/S769qpP.jpg) no-repeat fixed;
       background-attachment: fixed;
-      -webkit-background-size: contain;
-      -moz-background-size: contain;
-      -o-background-size: contain;
-      background-size: contain;
+      -webkit-background-size: cover;
+      -moz-background-size: cover;
+      -o-background-size: cover;
+      background-size: cover;
       
 
   }
