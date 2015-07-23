@@ -65,3 +65,7 @@ dl.pull-right {
 	background: rgba(17,17,17, .95);
 	-webkit-transform: translate3d(0,0,0);
 }
+
+.right.carousel-control, .left.carousel-control {
+    display: none;
+}
