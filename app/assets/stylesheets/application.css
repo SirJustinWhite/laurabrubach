@@ -37,7 +37,6 @@
 @media (max-width: 600px) {
   body#siteBackground {      
      background: url(http://i.imgur.com/S769qpP.jpg) no-repeat center center fixed;
-     background-size: 100% 100%;
 
   }
 }
