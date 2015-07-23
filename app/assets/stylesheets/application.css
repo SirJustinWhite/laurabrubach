@@ -21,17 +21,13 @@
   }
 }
 
-/* h1 override for screens */
-@media screen and (max-width: 768px) {
-    h1{
-        font-size:33px;
-    }
-    body#siteBackground{
-	    background: url(http://i.imgur.com/VtWKqMX.jpg) no-repeat center center fixed; 
-	    -webkit-background-size: cover;
-	    -moz-background-size: cover;
-	    -o-background-size: cover;
-	    background-size: cover;
-	}
-}
 
+@media (max-device-width: 700px) { 
+  body#siteBackground{
+      background: url(http://i.imgur.com/VtWKqMX.jpg) no-repeat center center fixed; 
+      -webkit-background-size: cover;
+      -moz-background-size: cover;
+      -o-background-size: cover;
+      background-size: cover;
+  }
+}
