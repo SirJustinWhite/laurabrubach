@@ -37,10 +37,11 @@
 @media screen and (max-width: 600px) {
   body#siteBackground {      
      background: url(http://i.imgur.com/aTSSfcI.jpg) no-repeat fixed;
-      -webkit-background-size: cover;
-      -moz-background-size: cover;
-      -o-background-size: cover;
-      background-size: cover;
+      -webkit-background-size: contain;
+      -moz-background-size: contain;
+      -o-background-size: contain;
+      background-size: contain;
+      background-attachment: scroll;
 
   }
 }
