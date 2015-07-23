@@ -35,7 +35,7 @@
   }
 }
 
-@media (max-width: 600px) {
+@media screen and (max-width: 600px) {
   .html-mobile-background {      
     position: fixed;
     z-index: -1;
@@ -43,8 +43,7 @@
     left: 0;
     width: 100%;
     height: 125%; /* To compensate for mobile browser address bar space */
-    background: url(http://i.imgur.com/S769qpP.jpg) no-repeat; 
-      
-
+    background: url(http://i.imgur.com/S769qpP.jpg) no-repeat center center; 
+    
   }
 }
