@@ -22,9 +22,9 @@
 }
 
 
-@media (max-device-width: 668px) { 
+@media (min-device-width: 768px) { 
   body#siteBackground{
-      background: url(http://i.imgur.com/VtWKqMX.jpg) no-repeat center center fixed; 
+      background: url(http://i.imgur.com/baVXo8q.jpg) no-repeat center center fixed; 
       -webkit-background-size: cover;
       -moz-background-size: cover;
       -o-background-size: cover;
