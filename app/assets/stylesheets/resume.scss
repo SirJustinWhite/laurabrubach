@@ -29,7 +29,7 @@ dl.pull-right {
 
 #rHeader {
 	color: #222;
-	background: rgba(238,238,238, .85);
+	background: rgba(238,238,238, .90);
 	-webkit-transform: translate3d(0,0,0);
 }
 
@@ -41,31 +41,32 @@ dl.pull-right {
 	}
 
 #rEducation {
-	background: rgba(119,119,119, .90);
+	background: rgba(119,119,119, .93);
 	-webkit-transform: translate3d(0,0,0);
 }
 
 #rSkills {
-	background: rgba(85,85,85, .93);
+	background: rgba(85,85,85, .95);
 	-webkit-transform: translate3d(0,0,0);
 }
 
 #rExperience {
-	background: rgba(51,51,51, .95);
+	background: rgba(51,51,51, .98);
 	-webkit-transform: translate3d(0,0,0);
 }
 
 
 #rActivities {
-	background: rgba(34,34,34, .95);
+	background: rgba(34,34,34, .98);
 	-webkit-transform: translate3d(0,0,0);
 }
 
 #rInterests { 
-	background: rgba(17,17,17, .95);
+	background: rgba(17,17,17, .98);
 	-webkit-transform: translate3d(0,0,0);
 }
 
 .right.carousel-control, .left.carousel-control {
     display: none;
 }
+
